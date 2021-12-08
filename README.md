@@ -1,6 +1,6 @@
-# GTrack-Mobile
+# Kelpie-Mobile
 
-Sistema de Rastreamento móvel de Gado com ContextNet
+Mobile entity simulator for Kelpie Tracker
 
 ## Setup
 1. Crie um par MainCKMobileNode.jar e properties.xml para cada nó móvel que você precisar 
